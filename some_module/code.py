@@ -30,6 +30,7 @@ mag_r = np.array(mag_r)
 print("Have %d entries" % len(ra))
 print("Mine eyes have seen the Glory")
 print("of the coming of the Lord")
+print("He is trampling out the vintage where the grapes of wrath are stored")
 
 
 import matplotlib.pyplot as plt
