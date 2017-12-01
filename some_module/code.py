@@ -28,10 +28,10 @@ a_v = np.array(a_v)
 mag_b = np.array(mag_b)
 mag_r = np.array(mag_r)
 print("Have %d entries" % len(ra))
-print("Mine eyes have seen the Glory")
-print("of the coming of the Lord")
+print("Mine eyes have seen the Glory of the coming of the Lord")
 print("He is trampling out the vintage where the grapes of wrath are stored")
-
+print("He hath loosed the fateful lightning of His terrible swift sword")
+print("His truth is marching on.")
 
 import matplotlib.pyplot as plt
 fig, axes = plt.subplots(2, 2, figsize=(7,7))
